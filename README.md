@@ -1,2 +1,3 @@
-<script src="https://cdn.tailwindcss.com"></script>
-<h1 class="text-blue-600">TES</h1>
+<div class="d-flex flex-justify-start">
+    <p class="text-mono text-small">rianalfa/README.md</p>
+</div>
