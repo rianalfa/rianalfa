@@ -6,15 +6,15 @@
         <h3 dir="auto">I love to code👨‍💻</h3>
         <div dir="auto">
             <a href="https://instagram.com/fckinastronaut" rel="nofollow">
-                <img src="/assets/instagram.svg" alt="Instagram Badge" />
+                <img width="24" height="24" src="/assets/instagram.svg" alt="Instagram Badge" />
             </a>
             <a href="https://itsrianalfa.space" rel="nofollow">
-                <img src="/assets/internet-explorer.svg" alt="Website Badge" />
+                <img width="24" height="24" src="/assets/internet-explorer.svg" alt="Website Badge" />
             </a>
         </div>
     </div>
     <h2 dir="auto">
-        <img src="/assets/user-astronaut-solid.svg" alt="User Icon" />
+        <img width="24" height="24" src="/assets/user-astronaut-solid.svg" alt="User Icon" />
         <span>About Me</span>
     </h2>
 </article>
